@@ -1362,7 +1362,7 @@
         },
         {
           "from": {
-            "key_code": "t",
+            "key_code": "a",
             "modifiers": {
               "mandatory": [
                 "right_command",
